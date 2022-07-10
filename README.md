@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Geetanjali !
 - 🌱 I’m currently learning Backend Development and contributing in Open Source
-- 🎵 Fun Fact🔮 : Music and Books!
+- 🎵 Interests : Music and Books!🎴
 - 👧 Pronouns: She/Her
 - 📫 How to reach me : vgeetanjaliverma8@gmail.com
 
