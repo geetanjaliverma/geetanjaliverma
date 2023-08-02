@@ -12,4 +12,3 @@ Feel Free To Connect!
 geetanjaliverma/geetanjaliverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![geetanjaliverma's GitHub | Topics Over Time](https://stats.quine.sh/geetanjaliverma/topics-over-time?theme=light)](https://quine.sh)
